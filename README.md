@@ -9,4 +9,4 @@
    <a href="https://www.linkedin.com/in/maria-eduarda-soares-romana-silva-629309208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation ](https://github.com/maduromana/maduromana/blob/output/github-contribution-grid-snake.svc) 
+![Snake animation ](https://github.com/maduromana/maduromana.git/blob/output/github-contribution-grid-snake.svc) 
