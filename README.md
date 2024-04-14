@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Maria Eduarda Soares 
 👩🏽‍💻 Aluna de Engenharia de Computação - UTFPR
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maduromana&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maduromana&layout=compact&theme=radical)
 ##
 <div> 
