@@ -21,11 +21,10 @@ Aqui você vai encontrar projetos acadêmicos, experimentos e aplicações prát
 
 ## 🛠️ Tecnologias e áreas de interesse
 
-* Python | C | R 
+* Python | R | SQL | Java
 * Processamento de Imagens  
 * Machine Learning
-* Sistemas embarcados  
-* Desenvolvimento de software  
+
 
 ---
 
